@@ -22,9 +22,9 @@ Et après 100 commits de joie voilà où nous en sommes.
 
 📈 Some information about the project:
 
-It didn't take a full two weeks, strictly speaking. We have masterclasses on Wednesday mornings, and Fridays are free days to work on our personal projects, so it's more like 7 actual days.
-I spent 5 hours gendering the streets based on their proper names because I couldn't find any database for that.
-Néïs ZONCA CROS did an incredible job on the frontend to achieve this result; I think she lost quite a few hairs over it.
-Both of us being perfectionists, there are inevitably some details that bother us, even if they are barely visible. We'll address those on more open days or in our personal time to be even prouder of this project.
+- It didn't take a full two weeks, strictly speaking. We have masterclasses on Wednesday mornings, and Fridays are free days to work on our personal projects, so it's more like 7 actual days.
+- I spent 5 hours gendering the streets based on their proper names because I couldn't find any database for that.
+- Néïs ZONCA CROS did an incredible job on the frontend to achieve this result; I think she lost quite a few hairs over it.
+- Both of us being perfectionists, there are inevitably some details that bother us, even if they are barely visible. We'll address those on more open days or in our personal time to be even prouder of this project.
 
 And after 100 commits of hapiness here we are !
