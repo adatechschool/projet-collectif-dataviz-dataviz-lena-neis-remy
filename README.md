@@ -1,7 +1,6 @@
 ### Made with ❤️ by **Néïs** and **Rémy** 
 
-![picture of the welcome screen](<img width="1440" alt="welcome_page" src="https://github.com/https-remy/ADA-Projets-Co-Dataviz/assets/114289631/a73f2868-f904-4f4e-983e-1dee5c174367">
-)
+![picture of the welcome screen](https://github.com/https-remy/ADA-Projets-Co-Dataviz/blob/master/img/welcome_page.png)
 
 # -----------------Français-----------------
 # La visible invisibilité ...
